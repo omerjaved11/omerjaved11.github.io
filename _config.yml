@@ -43,9 +43,6 @@ navbar-children-col: "#F5F5F5"
 navbar-col: "#F5F5F5"
 navbar-links: 
 
-  Cthulhu:
-    - Characters:
-      - Edward: "edward"
   "About Me": aboutme
   "Author's home": "http://omerjaved.me/"
   Projects: 
@@ -64,31 +61,7 @@ navbar-links:
 
     -  "Projects": "https://github.com/omerjaved11/Python-Tutorials/tree/master/6%20Projects"
 
-toc:
-  - title: Group 1
-    subfolderitems:
-      - page: Thing 1
-        url: /thing1.html
-      - page: Thing 2
-        url: /thing2.html
-      - page: Thing 3
-        url: /thing3.html
-  - title: Group 2
-    subfolderitems:
-      - page: Piece 1
-        url: /piece1.html
-      - page: Piece 2
-        url: /piece2.html
-      - page: Piece 3
-        url: /piece3.html
-  - title: Group 3
-    subfolderitems:
-      - page: Widget 1
-        url: /widget1.html
-      - page: Widget 2
-        url: /widget2.html
-      - page: Widget 3
-        url: /widget3.html      
+   
 navbar-text-col: "#404040"
 page-col: "#FFFFFF"
 paginate: 5
