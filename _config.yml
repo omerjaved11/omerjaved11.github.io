@@ -24,6 +24,10 @@ description: Python Developer | Aspiring Data Scientist | ML Engineer
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Projects: 
+  	- Recommender Systems For E-Commerce: "https://github.com/omerjaved11/Recommender-System-for-E-Commerce"
+  Publications: 
+  	- Bots and Gender Prediction: "https://github.com/omerjaved11/Author_Profiling_clef19/blob/master/README.md"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
