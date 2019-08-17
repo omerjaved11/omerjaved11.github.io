@@ -43,8 +43,8 @@ navbar-children-col: "#F5F5F5"
 navbar-col: "#F5F5F5"
 navbar-links: 
   Cthulhu:
-     Characters:
-       - Edward: "edward"   # produces text ` {"Edward"=>"edward"} ` with url: ` / `
+    - Characters:
+      - Edward: "edward"  # produces text ` "edward"}">Characters ` with url: `
   "About Me": aboutme
   "Author's home": "http://omerjaved.me/"
   Projects: 
