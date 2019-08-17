@@ -42,26 +42,31 @@ markdown: kramdown
 navbar-children-col: "#F5F5F5"
 navbar-col: "#F5F5F5"
 navbar-links: 
-  Cthulhu:
-    - Characters:
-      - Edward: "edward"
-  "About Me": aboutme
-  "Author's home": "http://omerjaved.me/"
-  Projects: 
-    - "Recommender Systems For E-Commerce": "https://github.com/omerjaved11/Recommender-System-for-E-Commerce"
-  Publications: 
-    -  "Bots and Gender Prediction": "https://github.com/omerjaved11/Author_Profiling_clef19/blob/master/README.md"
-  Resources: 
-    -  "Python Basics": "https://github.com/omerjaved11/Python-Tutorials/tree/master/0%20Python%20Basics"
-    -    "title": "title"
-    -  "Numpy": "https://github.com/omerjaved11/Python-Tutorials/tree/master/1%20Numpy"
+  - title: Group 1
+    subfolderitems:
+      - page: Thing 1
+        url: /thing1.html
+      - page: Thing 2
+        url: /thing2.html
+      - page: Thing 3
+        url: /thing3.html
+  - title: Group 2
+    subfolderitems:
+      - page: Piece 1
+        url: /piece1.html
+      - page: Piece 2
+        url: /piece2.html
+      - page: Piece 3
+        url: /piece3.html
+  - title: Group 3
+    subfolderitems:
+      - page: Widget 1
+        url: /widget1.html
+      - page: Widget 2
+        url: /widget2.html
+      - page: Widget 3
+        url: /widget3.html
 
-    -  "Pandas": "https://github.com/omerjaved11/Python-Tutorials/tree/master/2%20Pandas"
-
-    - "Data Visualization": "https://github.com/omerjaved11/Python-Tutorials/tree/master/3%20%20Data%20Visualization"
-    - "Machine Learning": "https://github.com/omerjaved11/Python-Tutorials/tree/master/5%20Machine%20Learning"
-
-    -  "Projects": "https://github.com/omerjaved11/Python-Tutorials/tree/master/6%20Projects"
       
 navbar-text-col: "#404040"
 page-col: "#FFFFFF"
