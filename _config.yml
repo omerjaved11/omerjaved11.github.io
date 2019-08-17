@@ -42,6 +42,29 @@ markdown: kramdown
 navbar-children-col: "#F5F5F5"
 navbar-col: "#F5F5F5"
 navbar-links: 
+
+  Cthulhu:
+    - Characters:
+      - Edward: "edward"
+  "About Me": aboutme
+  "Author's home": "http://omerjaved.me/"
+  Projects: 
+    - "Recommender Systems For E-Commerce": "https://github.com/omerjaved11/Recommender-System-for-E-Commerce"
+  Publications: 
+    -  "Bots and Gender Prediction": "https://github.com/omerjaved11/Author_Profiling_clef19/blob/master/README.md"
+  Resources: 
+    -  "Python Basics": "https://github.com/omerjaved11/Python-Tutorials/tree/master/0%20Python%20Basics"
+    -    "title": "title"
+    -  "Numpy": "https://github.com/omerjaved11/Python-Tutorials/tree/master/1%20Numpy"
+
+    -  "Pandas": "https://github.com/omerjaved11/Python-Tutorials/tree/master/2%20Pandas"
+
+    - "Data Visualization": "https://github.com/omerjaved11/Python-Tutorials/tree/master/3%20%20Data%20Visualization"
+    - "Machine Learning": "https://github.com/omerjaved11/Python-Tutorials/tree/master/5%20Machine%20Learning"
+
+    -  "Projects": "https://github.com/omerjaved11/Python-Tutorials/tree/master/6%20Projects"
+
+toc:
   - title: Group 1
     subfolderitems:
       - page: Thing 1
@@ -65,9 +88,7 @@ navbar-links:
       - page: Widget 2
         url: /widget2.html
       - page: Widget 3
-        url: /widget3.html
-
-      
+        url: /widget3.html      
 navbar-text-col: "#404040"
 page-col: "#FFFFFF"
 paginate: 5
