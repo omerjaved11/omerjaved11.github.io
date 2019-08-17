@@ -58,6 +58,7 @@ navbar-links:
     - 
       ? "Python Basics"
       : "https://github.com/omerjaved11/Python-Tutorials/tree/master/0%20Python%20Basics"
+      	- "Introductory" : "https://github.com/omerjaved11/Python-Tutorials/blob/master/0%20Python%20Basics/0%20Introductory.ipynb"
     - 
       ? "Numpy"
       : "https://github.com/omerjaved11/Python-Tutorials/tree/master/1%20Numpy"
