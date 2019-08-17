@@ -56,14 +56,24 @@ navbar-links:
       : "https://github.com/omerjaved11/Author_Profiling_clef19/blob/master/README.md"
   Resources: 
     - 
-      ? "Beautiful Jekyll"
-      : "http://deanattali.com/beautiful-jekyll/"
+      ? "Python Basics"
+      : "https://github.com/omerjaved11/Python-Tutorials/tree/master/0%20Python%20Basics"
     - 
-      ? "Learn markdown"
-      : "http://www.markdowntutorial.com/"
+      ? "Numpy"
+      : "https://github.com/omerjaved11/Python-Tutorials/tree/master/1%20Numpy"
     - 
-      ? "GitHub Pages"
-      : "https://pages.github.com/"
+      ? "Pandas"
+      : "https://github.com/omerjaved11/Python-Tutorials/tree/master/2%20Pandas"
+    - 
+      ? "Data Visualization"
+      : "https://github.com/omerjaved11/Python-Tutorials/tree/master/3%20%20Data%20Visualization"
+    - 
+      ? "Machine Learning"
+      : "https://github.com/omerjaved11/Python-Tutorials/tree/master/5%20Machine%20Learning"
+    - 
+      ? "Projects"
+      : "https://github.com/omerjaved11/Python-Tutorials/tree/master/6%20Projects"
+      
 navbar-text-col: "#404040"
 page-col: "#FFFFFF"
 paginate: 5
